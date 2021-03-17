@@ -1,0 +1,13 @@
+D:\c# dersleri\minikAtmProjesi\bin\Debug\netcoreapp3.1\minikAtmProjesi.exe
+D:\c# dersleri\minikAtmProjesi\bin\Debug\netcoreapp3.1\minikAtmProjesi.deps.json
+D:\c# dersleri\minikAtmProjesi\bin\Debug\netcoreapp3.1\minikAtmProjesi.runtimeconfig.json
+D:\c# dersleri\minikAtmProjesi\bin\Debug\netcoreapp3.1\minikAtmProjesi.runtimeconfig.dev.json
+D:\c# dersleri\minikAtmProjesi\bin\Debug\netcoreapp3.1\minikAtmProjesi.dll
+D:\c# dersleri\minikAtmProjesi\bin\Debug\netcoreapp3.1\minikAtmProjesi.pdb
+D:\c# dersleri\minikAtmProjesi\obj\Debug\netcoreapp3.1\minikAtmProjesi.csprojAssemblyReference.cache
+D:\c# dersleri\minikAtmProjesi\obj\Debug\netcoreapp3.1\minikAtmProjesi.AssemblyInfoInputs.cache
+D:\c# dersleri\minikAtmProjesi\obj\Debug\netcoreapp3.1\minikAtmProjesi.AssemblyInfo.cs
+D:\c# dersleri\minikAtmProjesi\obj\Debug\netcoreapp3.1\minikAtmProjesi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\minikAtmProjesi\obj\Debug\netcoreapp3.1\minikAtmProjesi.dll
+D:\c# dersleri\minikAtmProjesi\obj\Debug\netcoreapp3.1\minikAtmProjesi.pdb
+D:\c# dersleri\minikAtmProjesi\obj\Debug\netcoreapp3.1\minikAtmProjesi.genruntimeconfig.cache
